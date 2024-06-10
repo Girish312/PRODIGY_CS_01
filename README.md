@@ -1,8 +1,8 @@
-**Caesar Cipher**
+# Caesar Cipher Encryption
 
 This repository contains a simple implementation of the Caesar Cipher algorithm in Python. The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a fixed number of places down or up the alphabet.
 
-Features:
+## Features:
 
 >Encrypt plain text using the Caesar Cipher.
 
@@ -11,3 +11,5 @@ Features:
 >Supports both upper and lower case letters.
 
 >Preserves spaces and non-alphabetic characters.
+### Prerequisites
+- Python 3.x
