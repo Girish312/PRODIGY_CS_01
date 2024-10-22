@@ -1,6 +1,6 @@
 letters = 'abcdefghijklmnopqrstuvwxyz'
 num_letters = len(letters)
-
+print ("Upadted Changes")
 def encrypt(plaintext, key):
     ciphertext = ''
     for letter in plaintext:
